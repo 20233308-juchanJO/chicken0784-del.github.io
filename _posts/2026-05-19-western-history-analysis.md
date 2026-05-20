@@ -2,7 +2,7 @@
 title: "서양사료강독 - 냉전과 미국 대통령 연설 분석"
 date: 2026-05-19 12:00:00 +0900
 categories: [UNIVERSITY]
-tags: [history, coldwar]
+tags: [history]
 ---
 
 # 서양사료강독 정리
