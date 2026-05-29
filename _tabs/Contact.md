@@ -10,4 +10,4 @@ order: 4
   https://github.com/20233308-juchanJO
 
 - Email:
-  your-email@example.com
+  tior7854@naver.com
