@@ -1,26 +1,22 @@
 ---
-layout: page
 title: Skills
 icon: fas fa-code
-order: 3
+order: 2
 ---
 
 # Skills
 
 ## Programming
-
-- C : Intermediate
-- C++ : Intermediate
-- Python : Basic
-- JavaScript : Basic
+- C++
+- Python
+- HTML/CSS
 
 ## Tools
+- Git
+- GitHub
+- VS Code
 
-- Git : Basic
-- GitHub : Basic
-- VS Code : Intermediate
-
-## Web
-
-- HTML/CSS : Basic
-- Jekyll : Basic
+## AI / CS
+- Machine Learning (Basic)
+- Deep Learning (Basic)
+- Data Structure
